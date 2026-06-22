@@ -1,0 +1,53 @@
+- Supervised Learning
+
+    Input (X) --> Output (Y)
+
+    Features (X)
+    Area, Bedrooms, Street 
+    
+    Target (Y):
+    Price
+
+    - Regression
+
+        - Linear Regression
+        - Random Forest Regressor
+
+    - Classification
+
+        - Predicts the category
+
+            - Spam/ Not Spam
+            - Disease / No Disease 
+            - Farud / Not Fraud 
+        
+        - Logistic Regression
+        - Decision Tree
+        - Random Forest 
+
+- Unsupervised Learning 
+     
+      - No target variable 
+      - Only data is available
+
+      - The machine discovers pattern itslef.
+
+    - Clustering 
+
+        The algorithm groups into similar records
+
+        - k-means
+        - Hierachical Clustering 
+
+    - Association Rules
+
+     - Apriori
+     - FP Growth 
+
+- Reinforcement Learning 
+
+    Instead of labels, it trains 
+
+    - Q - Learning
+    - DQN 
+    - Atctor-Critic
